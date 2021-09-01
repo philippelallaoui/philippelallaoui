@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {"id": 1, "name": "Post 1", "lastname": " description 1" "gender": " description 1" "birth": " description 1" },
+    {"id": 2, "name": "Post 2", "lastname": " description 2" "gender": " description 2" "birth": " description 2" },
+    {"id": 3, "name": "Post 3", "lastname": " description 3" "gender": " description 3" "birth": " description 3" }
+  ],
+  "comments":[
+    {"id":1,"body":"comment 1","postId" :1 },
+    {"id":2,"body":"comment 2","postId" :1 }
+],
+  "profile"{
+     "name": "Profile 1"
+  }
+}
